@@ -1,4 +1,8 @@
 h1{
-    color: coral;
-    background-color: darkgreen;
+    color: rgb(17, 158, 29);
+    background-color: rgba(169, 197, 174, 0.349);
+}
+img{
+    width: 400px;
+    height: 300px;
 }
